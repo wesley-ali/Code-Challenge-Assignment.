@@ -5,8 +5,8 @@
 
 ## Description,
 It's a Javascript solution code that enables one to;
-1. Generates student grade in which user can input and output student grades correctly.
-2. Detects speed and inputs the speed of a car and outputs the total demerit points of a car driver.
+1. Generates student grades in which users can input and output student grades correctly.
+2. Detects speed, inputs the speed of a car which outputs the total demerit points of a car driver.
 3. Calculates the net salary of an individual by inputs of one's basic salary and benefits.
 
 ## Installation,
@@ -17,7 +17,7 @@ Git.
 
 ### Installation instruction,
 ```
-Git clone 
+Git clone git@github.com:wesley-ali/Code-Challenge-Assignment..git
 
 ```
 
@@ -34,12 +34,12 @@ Javascript
 
 
 ## Support and contact details
-
+github.com/wesley-ali
 
 
 ### License
 The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+Copyright (c) 2024.
 
 
 
